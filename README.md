@@ -9,3 +9,5 @@ classified into one category. According to sample analysis, it may be difficult 
 successfully use clustering to make detailed divisions, or the accuracy may be
 relatively low. Explore the impact of matrix selection or model changes on sample
 analysis.
+
+This was done as a part of my masters group assessment 
